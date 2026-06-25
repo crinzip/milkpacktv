@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crinzip.github.io/milkpacktv/sitemap.xml
